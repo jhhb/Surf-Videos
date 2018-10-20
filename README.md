@@ -1,3 +1,12 @@
+### Tested Dependency Versions
+* `node` at `9.6.1`
+* `npm` at `5.6.0`
+
+### Running the app
+* `cd Surf-Videos/`
+* `npm install && npm run start`
+
+
 # Browse/Search Surf Videos
 
 you can use whatever frameworks you’d like. we use React here at drift and have found create-react-app to be a great way to get started. 
