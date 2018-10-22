@@ -1,0 +1,17 @@
+.nav {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav--control-group {
+    padding: 20px 0
+}
+.nav--search {
+    min-width: 400px;
+}
+
+.bp3-control-group .bp3-button.nav--search-button:focus {
+    outline: none;
+}
