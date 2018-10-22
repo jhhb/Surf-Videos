@@ -1,0 +1,9 @@
+.home-page {
+    padding: 40px 60px;
+}
+
+.home-page--scroll-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
