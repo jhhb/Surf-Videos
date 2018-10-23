@@ -5,7 +5,7 @@
 * Developed and tested in Chrome
 
 ### Running the app
-* `nvm use 9.6.1 # or whatever` 
+* `nvm use 9.6.1 # Not necessary, but might as well do this`
 * `cd Surf-Videos/`
 * `npm install && npm run start`
 
