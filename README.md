@@ -1,8 +1,11 @@
 ### Tested Dependency Versions
+* `nvm` at `0.33.11`
 * `node` at `9.6.1`
 * `npm` at `5.6.0`
+* Developed and tested in Chrome
 
 ### Running the app
+* `nvm use 9.6.1 # or whatever` 
 * `cd Surf-Videos/`
 * `npm install && npm run start`
 
